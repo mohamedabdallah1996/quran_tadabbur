@@ -11,3 +11,6 @@ wheels/
 
 # qdrant
 qdrant_storage/
+
+# Ignore .env file
+.env
